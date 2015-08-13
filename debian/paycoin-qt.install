@@ -1,3 +1,0 @@
-paycoin-qt usr/bin
-debian/paycoin-qt.desktop usr/share/applications
-debian/paycoin-qt.protocol usr/share/kde4/services

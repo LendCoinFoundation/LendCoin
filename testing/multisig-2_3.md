@@ -1,4 +1,4 @@
-Test 2/3 multisig address
+Test 2/3 multisig address 
 ==========================
 
 Alice must send coins to Bob using a multisig address generated with 3 keys (Alice, Bob, Trent) and requiring signatures from 2 keys out of 3 to spend the coins.

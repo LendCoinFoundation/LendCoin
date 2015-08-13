@@ -64,7 +64,7 @@ class BitcoinRPC:
 	def getwork(self, data=None):
 		return self.rpc('getwork', data)
 
-def uint32(x):
+def uint32(x):    
 	return x & 0xffffffffL
 
 def bytereverse(x):

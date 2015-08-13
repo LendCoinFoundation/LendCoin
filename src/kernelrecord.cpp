@@ -22,7 +22,7 @@ bool KernelRecord::showTransaction(const CWalletTx &wtx)
 
     return true;
 }
-
+ 
 /*
  * Decompose CWallet transaction to model kernel records.
  */

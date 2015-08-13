@@ -1,4 +1,4 @@
-from jsonrpc import ServiceProxy
+from jsonrpc import ServiceProxy 
 import sys
 import string
 

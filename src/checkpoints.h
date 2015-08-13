@@ -34,18 +34,6 @@ namespace Checkpoints
     extern CSyncCheckpoint checkpointMessage;
     extern uint256 hashInvalidCheckpoint;
     extern CCriticalSection cs_hashSyncCheckpoint;
-
-    CBlockIndex* GetLastSyncCheckpoint();
-    bool WriteSyncCheckpoint(const uint256& hashCheckpoint);
-    bool AcceptPendingSyncCheckpoint();
-    uint256 AutoSelectSyncCheckpoint();
-    bool CheckSync(const uint256& hashBlock, const CBlockIndex* pindexPrev);
-    bool WantedByPendingSyncCheckpoint(uint256 hashBlock);
-    bool ResetSyncCheckpoint();
-    void AskForPendingSyncCheckpoint(CNode* pfrom);
-    bool SetCheckpointPrivKey(std::string strPrivKey);
-    bool SendSyncCheckpoint(uint256 hashCheckpoint);
-    bool IsMatureSyncCheckpoint();
 }
 
 // paycoin: synchronized checkpoint
@@ -93,7 +81,17 @@ public:
 
     std::vector<unsigned char> vchMsg;
     std::vector<unsigned char> vchSig;
-
+ CBlockIndex* GetLastSyncCheckpoint();
+    bool WriteSyncCheckpoint(const uint256& hashCheckpoint);
+    bool AcceptPendingSyncCheckpoint();
+    uint256 AutoSelectSyncCheckpoint();
+    bool CheckSync(const uint256& hashBlock, const CBlockIndex* pindexPrev);
+    bool WantedByPendingSyncCheckpoint(uint256 hashBlock);
+    bool ResetSyncCheckpoint();
+    void AskForPendingSyncCheckpoint(CNode* pfrom);
+    bool SetCheckpointPrivKey(std::string strPrivKey);
+    bool SendSyncCheckpoint(uint256 hashCheckpoint);
+    bool IsMatureSyncCheckpoint();
     CSyncCheckpoint()
     {
         SetNull();

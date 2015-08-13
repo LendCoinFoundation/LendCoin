@@ -1,0 +1,2 @@
+debian/binlncd usr/bin
+src/bitcoind usr/lib/lnc

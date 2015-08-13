@@ -7,7 +7,7 @@
 
 DEB_INSTALL_EXAMPLES_bitcoind += debian/examples/*
 DEB_INSTALL_MANPAGES_bitcoind += debian/manpages/*
-
+ 
 %:
 	dh $@
 

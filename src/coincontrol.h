@@ -22,7 +22,7 @@ public:
     {
         return (setSelected.size() > 0);
     }
-
+//Cims
     bool IsSelected(const uint256& hash, unsigned int n) const
     {
         COutPoint outpt(hash, n);

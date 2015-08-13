@@ -9,7 +9,7 @@ Simple JSON-RPC
 
 We send one request and we get one response.
 
-curl --user user:password --data-binary '{"jsonrpc": "1.0", "id":"curltest", "method": "getinfo", "params": [] }' -H 'content-type: text/plain;' http://127.0.0.1:9904/
+curl --user user:password --data-binary '{"jsonrpc": "1.0", "id":"curltest", "method": "getinfo", "params": [] }' -H 'content-type: text/plain;' http://127.0.0.1:9904/ 
 
     {
       "result" : {

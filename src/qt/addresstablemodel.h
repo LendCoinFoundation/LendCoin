@@ -76,7 +76,23 @@ private:
 
 signals:
     void defaultAddressChanged(const QString &address);
+  enum EditStatus {
+        OK,
+        INVALID_ADDRESS,   /**< Unparseable address */
+        DUPLICATE_ADDRESS,  /**< Address already in address book */
+        WALLET_UNLOCK_FAILURE, /**< Wallet could not be unlocked to create new receiving address */
+        KEY_GENERATION_FAILURE /**< Generating a new public key for a receiving address failed */
+    };
 
+    static const QString Send; /**< Specifies send address */
+    static const QString Receive; /**< Specifies receive address */
+
+    /** @name Methods overridden from QAbstractTableModel
+        @{*/
+    int rowCount(const QModelIndex &parent) const;
+    int columnCount(const QModelIndex &parent) const;
+    QVariant data(const QModelIndex &index, int role) const;
+    bool setData(const QModelIndex & index, const QVariant & value, int role);
 public slots:
     /* Update address list from core. Invalidates any indices.
      */

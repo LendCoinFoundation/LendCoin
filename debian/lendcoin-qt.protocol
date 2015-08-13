@@ -1,6 +1,6 @@
 [Protocol]
-exec=paycoin-qt '%u'
-protocol=paycoin
+exec=le lendcoin-qt '%u'
+protocol=lendcoin
 input=none
 output=none
 helper=true

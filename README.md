@@ -1,32 +1,25 @@
-# Paycoin Official Development Repository
+# LendCoin Official Development Repository
 
-## What is Paycoin?
+## What is LendCoin?
 
-Paycoin is a Paycoin network-compatible, community-developed wallet client.
+LendCoin is a LendCoin network-compatible, community-developed wallet client.
 
-The project has been designed to provide people with a stable, secure, and feature-rich alternative to the Paycoin reference wallet (https://github.com/PaycoinFoundation/paycoin).
+The project has been designed to provide people with a stable, secure, and feature-rich alternative to the LendCoin reference wallet (https://github.com/LendCoinFoundation/LendCoin).
 
-To help faciliate broad community cooperation, a number of trusted Paycoin/Peershares community leaders have write permissions to the project's codebase, allowing for decentralization and continuity. Community members, old and new, are encouraged to find ways to contribute to the success of the project. If you have experience with programming, product design, QA engineering, translation, or have a different set of skills that you want to bring to the project, your involvement is appreciated!
+To help faciliate broad community cooperation, a number of trusted LendCoin community leaders have write permissions to the project's codebase, allowing for decentralization and continuity. Community members, old and new, are encouraged to find ways to contribute to the success of the project. If you have experience with programming, product design, QA engineering, translation, or have a different set of skills that you want to bring to the project, your involvement is appreciated!
 
-
-### Paycoin Resources
-* Source: [Source Code](https://github.com/PaycoinFoundation/paycoin)
-* Documentation: [Build Instructions](https://github.com/PaycoinFoundation/paycoin/tree/master/doc)
-* Support: [Talk Paycoin](https://www.paycointalk.org/category/8/paycoin-coincode), [Issue Tracker](https://github.com/PaycoinFoundation/paycoin/issues)
-
-
-### About Paycoin
-[Paycoin](https://paycoin.com/) (abbreviated XPY), also known as Paycoin and Peer-to-Peer Coin is the first [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) design introducing [proof-of-stake consensus](https://paycoin.com) as a security model, with a combined [proof-of-stake](https://paycoin.com)/[proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) minting system. Paycoin is based on [Peercoin](http://www.peercoin.net/), while introducing many important innovations to cryptocurrency field including new security model, energy efficiency, better minting model and more adaptive response to rapid change in network computation power.
+### About LendCoin
+[LendCoin](https://LendCoin.com/) (abbreviated XPY), also known as LendCoin and Peer-to-Peer Coin is the first [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) design introducing [proof-of-stake consensus](https://LendCoin.com) as a security model, with a combined [proof-of-stake](https://LendCoin.com)/[proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) minting system. LendCoin is based on [Peercoin](http://www.peercoin.net/), while introducing many important innovations to cryptocurrency field including new security model, energy efficiency, better minting model and more adaptive response to rapid change in network computation power.
 
 
 ## Repo Guidelines
 
 * Developers work in their own forks, then submit pull requests when they think their feature or bug fix is ready.
 * If it is a simple/trivial/non-controversial change, then one of the development team members simply pulls it.
-* If it is a more complicated or potentially controversial change, then the change may be discussed in the pull request, or the requester may be asked to start a discussion at [Talk Paycoin](https://www.paycointalk.org/category/8/paycoin-coincode) for a broader community discussion.
+* If it is a more complicated or potentially controversial change, then the change may be discussed in the pull request, or the requester may be asked to start a discussion at [Talk LendCoin](https://www.LendCointalk.org/category/8/LendCoin-coincode) for a broader community discussion.
 * The patch will be accepted if there is broad consensus that it is a good thing. Developers should expect to rework and resubmit patches if they don't match the project's coding conventions (see coding.md) or are controversial.
 * From time to time a pull request will become outdated. If this occurs, and the pull is no longer automatically mergeable; a comment on the pull will be used to issue a warning of closure.  Pull requests closed in this manner will have their corresponding issue labeled 'stagnant'.
-* For development ideas and help see [here](https://www.paycointalk.org/category/8/paycoin-coincode).
+* For development ideas and help see [here](https://www.LendCointalk.org/category/8/LendCoin-coincode).
 
 
 ## Translation Guidelines

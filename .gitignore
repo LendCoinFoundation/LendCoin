@@ -4,6 +4,9 @@ src/test_paycoin
 # Ignore build dir
 build/
 
+# Mac specific
+.DS_Store
+
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
@@ -14,6 +17,3 @@ qrc_*.cpp
 
 # Qt creator
 *.pro.user
-
-# Mac specific
-.DS_Store

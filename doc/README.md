@@ -1,4 +1,4 @@
-LendCoin 0.3.0.2
+LendCoin 1.0.0.0
 ===============
 
 Copyright (c) 2014 LendCoin developers

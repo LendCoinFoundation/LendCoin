@@ -59,7 +59,7 @@ _lnc() {
             ;;
         getaccountaddress|getaddressesbyaccount|getbalance|getnewaddress|getreceivedbyaccount|listtransactions|move|sendfrom|sendmany)
             _lendcoin_accounts
-            return 0
+            return 0 
             ;;
     esac
 

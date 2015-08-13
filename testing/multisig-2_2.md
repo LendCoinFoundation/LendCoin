@@ -1,4 +1,4 @@
-Test 2/2 multisig address
+Test 2/2 multisig address 
 ==========================
 
 Alice wants to send coins to Bob using a multisig address generated with 2 keys and requiring signatures from these 2 keys to spend the coins.

@@ -1,4 +1,4 @@
-TEMPLATE = app
+TEMPLATE = app 
 TARGET = LendCoin-qt
 VERSION = 0.3.0.2
 INCLUDEPATH += src src/json src/qt

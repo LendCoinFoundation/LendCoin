@@ -1,7 +1,7 @@
 [Protocol]
 exec=lnc-qt '%u'
 protocol=lnc
-input=none
+input=none 
 output=none
 helper=true
 listing=

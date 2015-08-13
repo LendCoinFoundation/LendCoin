@@ -1,7 +1,7 @@
-Paycoin 0.3.0.2
+LendCoin 0.3.0.2
 ===============
 
-Copyright (c) 2014 Paycoin developers
+Copyright (c) 2014 LendCoin developers
 
 Distributed under the MIT software license, see the accompanying
 file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -10,16 +10,16 @@ the OpenSSL Toolkit (https://www.openssl.org/).  This product includes
 cryptographic software written by Eric Young (eay@cryptsoft.com).
 
 
-About Paycoin
+About LendCoin
 -------------
-Paycoin is a Paycoin network-compatible, community-developed wallet client.
+LendCoin is a LendCoin network-compatible, community-developed wallet client.
 
 The project has been designed to provide people with a
-stable, secure, and feature-rich alternative to the Paycoin reference
-wallet (https://github.com/PaycoinFoundation/paycoin).
+stable, secure, and feature-rich alternative to the LendCoin reference
+wallet (https://github.com/LendCoinFoundation/LendCoin).
 
 To help faciliate broad community cooperation, a number of trusted
-Paycoin/Peershares community leaders have write permissions to the project's
+LendCoin/Peershares community leaders have write permissions to the project's
 codebase, allowing for decentralization and continuity. Community members,
 old and new, are encouraged to find ways to contribute to the success of
 the project. If you have experience with programming, product design,
@@ -36,39 +36,39 @@ Development Roadmap
 
 Resources
 ---------
-Paycoin source code: https://github.com/PaycoinFoundation/Paycoin
+LendCoin source code: https://github.com/LendCoinFoundation/LendCoin
 
-For the most current instructions covering how to compile Paycoin from
+For the most current instructions covering how to compile LendCoin from
 source on a variety of operating systems, please visit:
-https://github.com/PaycoinFoundation/Paycoin/tree/master/doc
+https://github.com/LendCoinFoundation/LendCoin/tree/master/doc
 
 Open software issues can be viewed, and new issues can be reported at:
-https://github.com/PaycoinFoundation/Paycoin/issues?state=open
+https://github.com/LendCoinFoundation/LendCoin/issues?state=open
 
-Paycoin discussion forums (hosted by paycoin.com):
-http://talk.paycoin.com/categories/coincode
+LendCoin discussion forums (hosted by LendCoin.com):
+http://talk.LendCoin.com/categories/coincode
 
 
 
 Acknowledgements
 ----------------
-Paycoin owes it's existance to the time and effort put forth by
+LendCoin owes it's existance to the time and effort put forth by
 the developers and supporters of the following projects:
 
 ***
 
-   Paycoin (Paycoin) 0.4.0 BETA
+   LendCoin (LendCoin) 0.4.0 BETA
    Copyright (c) 2011-2014 Bitcoin Developers
 
    Distributed under the MIT software license
    (http://www.opensource.org/licenses/mit-license.php)
 
-   Paycoin is a free open source project with the goal of providing a
+   LendCoin is a free open source project with the goal of providing a
    long-term energy-efficient cryptocurrency. Built on the foundation
    of Bitcoin, innovations such as proof-of-stake help further advance
    the field of cryptocurrency.
 
-   https://github.com/PaycoinFoundation/paycoin
+   https://github.com/LendCoinFoundation/LendCoin
 
 ***
 

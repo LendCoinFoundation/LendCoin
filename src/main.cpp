@@ -10,8 +10,7 @@
 #include "net.h"
 #include "init.h"
 #include "ui_interface.h"
-#include "kernel.h"
-#include "primekeys.h"
+#include "kernel.h""
 #include <boost/algorithm/string/replace.hpp>
 #include <boost/filesystem.hpp>
 #include <boost/filesystem/fstream.hpp>
@@ -21,7 +20,7 @@ using namespace boost;
 
 //
 // Global state
-//
+//CIMS
 
 CCriticalSection cs_setpwalletRegistered;
 set<CWallet*> setpwalletRegistered;
@@ -31,14 +30,7 @@ CCriticalSection cs_main;
 CTxMemPool mempool;
 unsigned int nTransactionsUpdated = 0;
 
-map<uint256, CBlockIndex*> mapBlockIndex;
-set<pair<COutPoint, unsigned int> > setStakeSeen;
-uint256 hashGenesisBlock = hashGenesisBlockOfficial;
-static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20);
-static CBigNum bnInitialHashTarget(~uint256(0) >> 28);
-static CBigNum bn227HashTarget(~uint256(0) >> 32);
-//static CBigNum bn227HashTarget(~uint256(0) >> 20);
-//static CBigNum bnProofOfStakeLimit(~uint256(0) >> 16);
+
 static CBigNum bnProofOfStakeLimit(~uint256(0) >> 4);
 unsigned int nStakeMinAge = STAKE_MIN_AGE;
 int nCoinbaseMaturity = COINBASE_MATURITY_PPC;
@@ -64,7 +56,14 @@ map<uint256, map<uint256, CDataStream*> > mapOrphanTransactionsByPrev;
 CScript COINBASE_FLAGS;
 
 const string strMessageMagic = "Paycoin Signed Message:\n";
-
+map<uint256, CBlockIndex*> mapBlockIndex;
+set<pair<COutPoint, unsigned int> > setStakeSeen;
+uint256 hashGenesisBlock = hashGenesisBlockOfficial;
+static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20);
+static CBigNum bnInitialHashTarget(~uint256(0) >> 28);
+static CBigNum bn227HashTarget(~uint256(0) >> 32);
+//static CBigNum bn227HashTarget(~uint256(0) >> 20);
+//static CBigNum bnProofOfStakeLimit(~uint256(0) >> 16);
 double dHashesPerSec;
 int64 nHPSTimerStart;
 

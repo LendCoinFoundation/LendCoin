@@ -6,6 +6,6 @@ output=none
 helper=true
 listing=
 reading=false
-writing=false
+writing=false  
 makedir=false
 deleting=false

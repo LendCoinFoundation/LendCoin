@@ -13,6 +13,7 @@ There are three addresses with initial balance used in the test,
 * test3  mpRAV4VSsxmKh5nRpDuQPquhdHPKu4xUuS  7PPC
 
 ### start LendCoin
+start //CIMS
 
 * Run LendCoin with a bat file that has the command
 ```

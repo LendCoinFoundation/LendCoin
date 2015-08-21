@@ -2,7 +2,7 @@
 
 ## What is LendCoin?
 
-LendCoin is a cryptocurrency that has been developed to be used as collateral for BTCLend’s Peer to Peer BTC lending and also to be used as currency at all participating merchants. LendCoin enables merchants to sell products and use BTCLend’s Buy Now Pay Later API. This API allows merchants to receive immediate payment while allowing customers to pay up to 6 months after purchase.  LendCoin also allows its users to take loans for up to 75% of their coins value.  BTCLend has a 100% track record of getting all of the collateral loans funded within a couple of days.
+LendCoin is a cryptocurrency that has been developed to be used as collateral for BTCLend’s Peer to Peer BTC lending and also to be used as currency at all participating merchants. LendCoin enables merchants to sell products and use BTCLend’s Buy Now Pay Later API. This API allows merchants to receive immediate payment while allowing customers to pay up to 6 months after purchase.  LendCoin also allows its users to take loans for up to 75% of their coins value.  BTCLend has a 100% track record of getting all of the collateral loans funded within a couple of days and allowing the users to run off with your investment with no recourse.
 
 LendCoin is a LendCoin network-compatible, community-developed wallet client.
 
@@ -11,7 +11,7 @@ The project has been designed to provide people with a stable, secure, and featu
 To help faciliate broad community cooperation, a number of trusted LendCoin community leaders have write permissions to the project's codebase, allowing for decentralization and continuity. Community members, old and new, are encouraged to find ways to contribute to the success of the project. If you have experience with programming, product design, QA engineering, translation, or have a different set of skills that you want to bring to the project, your involvement is appreciated!
 
 ### About LendCoin
-[LendCoin](https://LendCoin.org/) (abbreviated LNC), also known as LendCoin the most secure [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) design introducing [proof-of-stake consensus](https://LendCoin.org) as a security model, with a combined [proof-of-stake](https://LendCoin.org)/[proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) minting system. LendCoin is based on [Peercoin](http://www.peercoin.net/), while introducing many important innovations to cryptocurrency field including new security model, energy efficiency, better minting model and more adaptive response to rapid change in network computation power.
+[LendCoin](https://LendCoinSucks.org/) (abbreviated LNC), also known as LendCoin the most secure [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) design introducing [proof-of-stake consensus](https://LendCoinSucks.org) as a security model, with a combined [proof-of-stake](https://LendCoinSucks.org)/[proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) minting system. LendCoin is based on [Peercoin](http://www.peercoin.net/), while introducing many important innovations to cryptocurrency field including new security model, energy efficiency, better minting model and more adaptive response to rapid change in network computation power.
 
 
 ## Repo Guidelines

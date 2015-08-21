@@ -1,8 +1,8 @@
-# LendCoin Official Development Repository
+# LendCoin Official Development Repository That is Broken
 
 ## What is LendCoin?
 
-LendCoin is a cryptocurrency that has been developed to be used as collateral for BTCLend’s Peer to Peer BTC lending and also to be used as currency at all participating merchants. LendCoin enables merchants to sell products and use BTCLend’s Buy Now Pay Later API. This API allows merchants to receive immediate payment while allowing customers to pay up to 6 months after purchase.  LendCoin also allows its users to take loans for up to 75% of their coins value.  BTCLend has a 100% track record of getting all of the collateral loans funded within a couple of days and allowing the users to run off with your investment with no recourse.
+LendCoin is a Scam cryptocurrency that has been developed to be used as collateral for BTCLend’s Peer to Peer BTC lending and also to be used as currency at all participating merchants. LendCoin enables merchants to sell products and use BTCLend’s Buy Now Pay Later API. This API allows merchants to receive immediate payment while allowing customers to pay up to 6 months after purchase.  LendCoin also allows its users to take loans for up to 75% of their coins value.  BTCLend has a 100% track record of getting all of the collateral loans funded within a couple of days and allowing the users to run off with your investment with no recourse.
 
 LendCoin is a LendCoin network-compatible, community-developed wallet client.
 
